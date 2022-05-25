@@ -1,0 +1,8 @@
+AISD почти все- https://github.com/D4Gj/gos/raw/aisd/Program.cs
+AISD хеширование, пробирование и открытая адресация https://github.com/D4Gj/gos/raw/aisd/hash.txt
+AISD круговой двойной список - https://github.com/D4Gj/gos/raw/aisd/clist.txt
+AISD двусвязный список - https://github.com/D4Gj/gos/raw/aisd/dlist.txt
+AISD граф - https://github.com/D4Gj/gos/raw/aisd/graf.txt
+AISD односвязный список - https://github.com/D4Gj/gos/raw/aisd/list.txt
+AISD все сортировки - https://github.com/D4Gj/gos/raw/aisd/sort.txt
+AISD бинарное дерево - https://github.com/D4Gj/gos/raw/aisd/tree.txt
